@@ -4,6 +4,7 @@
 
 * Matthew Ragan
 * Zoe Sandoval
+* Ian Shelanskey
 
 ## TouchDesigner Details
 
