@@ -1,4 +1,4 @@
-# TouchDesigner New Media Cacus 2026
+# TouchDesigner + Pixera 2026
 
 **Instructors:**
 
@@ -13,8 +13,6 @@
 ---
 
 ## A little about SudoMagic and  this workshop
-
-{{ Summary of workshop here }}
 
 SudoMagic is a boutique software and design studio that partners with organizations to bring their creative and technical ideas to life. The team at SudoMagic has produced everything from branded activations to immersive experiences, from permanent installations to bespoke pipeline tools and resources. Their clients include Meta, T-Mobile, UCLA, and Derivative among others.
 
