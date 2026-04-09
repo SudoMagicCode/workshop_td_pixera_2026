@@ -62,9 +62,56 @@ This workshop will largely focus on techniques for live performance, data proces
 
 {{ High level schedule here }}
 
+### Day 1
+
+TouchDesigner Overview, building effects, working with textures, and getting started with realtime rendering.
+
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| time AM /PM | Topic Summary |
+| 9:00 AM | Welcome! About SudoMagic + What is TouchDesigner?  |
+| 10:00 AM | Navigating the Environment & OP Families |
+| 11:00 AM | Working with TOPs & Video Effects |
+| 12:00 PM | Live Camera Inputs & NDI Routing |
+| 1:00 PM | Lunch |
+| 2:00 PM | Working with POPs |
+| 3:00 PM | Realtime Rendering |
+| 4:00 PM | Audio-Reactivity |
+| 4:30 PM | Day 1 - Project Prompt / Q&A |
+| 5:00 PM | Wrap |
+
+### Day 2
+
+Working with Point Clouds, creating events, creating components, modular workflows and getting started with engines.
+
+| Time    | Topic                                           |
+| ------- | :---------------------------------------------- |
+| 9:00 AM | Working with Point Clouds |
+| 10:00 AM | Point Cloud Transformations |
+| 11:00 AM | Realtime Point Manipulations (Orbbec Data) |
+| 12:00 PM | Using Custom Parameters & Components |
+| 1:00 PM | Lunch |
+| 2:00 PM | Creating TOX Files |
+| 3:00 PM | Using the Engine COMP |
+| 4:00 PM | I/O with TouchDesigner (OSC) |
+| 4:30 PM | Day 2 - Project Prompt / Q&A |
+| 5:00 PM | Wrap |
+
+### Day 3
+
+The fundamentals of working with Pixera, using inputs and outputs, working with limitations and constraints. Fast prototyping, and how to work faster.
+
+| Time    | Topic                                           |
+| ------- | :---------------------------------------------- |
+| 9:00 AM | PIXERA & TouchDesigner Integration Overview |
+| 10:00 AM | TouchDesigner Integration Outputs |
+| 11:00 AM | TouchDesigner Integration Texture and Control Inputs |
+| 12:00 PM | Working with TouchDesigner in Multiple PIXERA Timelines |
+| 1:00 PM | Lunch |
+| 2:00 PM | Working Fast: Using NDI |
+| 3:00 PM | Working Fast: Hot Reloading TOX files |
+| 4:00 PM | PIXERA & TouchDesigner Workflow Recommendations |
+| 4:30 PM | Day 3 - Showcase / Q&A  |
+| 5:00 PM | Wrap |
 
 ---
 
