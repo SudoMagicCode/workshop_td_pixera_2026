@@ -68,13 +68,13 @@ TouchDesigner Overview, building effects, working with textures, and getting sta
 
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| 9:00 AM | Welcome! About SudoMagic + What is TouchDesigner?  |
+| 9:30 AM | Welcome! About SudoMagic + What is TouchDesigner? |
 | 10:00 AM | Navigating the Environment & OP Families |
-| 11:00 AM | Working with TOPs & Video Effects |
-| 12:00 PM | Live Camera Inputs & NDI Routing |
+| 11:00 AM | Working with TOPs & Noise |
+| 12:00 PM | Live Camera & Video Effects |
 | 1:00 PM | Lunch |
-| 2:00 PM | Working with POPs |
-| 3:00 PM | Realtime Rendering |
+| 2:00 PM | Working POPs |
+| 3:00 PM | Realtime Rendering & Post Processing |
 | 4:00 PM | Audio-Reactivity |
 | 4:30 PM | Day 1 - Project Prompt / Q&A |
 | 5:00 PM | Wrap |
@@ -85,14 +85,14 @@ Working with Point Clouds, creating events, creating components, modular workflo
 
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| 9:00 AM | Working with Point Clouds |
-| 10:00 AM | Point Cloud Transformations |
-| 11:00 AM | Realtime Point Manipulations (Orbbec Data) |
-| 12:00 PM | Using Custom Parameters & Components |
+| 9:30 AM | Working with Point Clouds |
+| 10:00 AM | Particles, Feedback & Trails |
+| 11:00 AM | Point Transformations with Optical Flow |
+| 12:00 PM | Point Clouds & Tracking (Orbbec Data) |
 | 1:00 PM | Lunch |
-| 2:00 PM | Creating TOX Files |
-| 3:00 PM | Using the Engine COMP |
-| 4:00 PM | I/O with TouchDesigner (OSC) |
+| 2:00 PM | Animating Abstract 3D Worlds |
+| 3:00 PM | Using Custom Parameters & Creating TOXs |
+| 4:00 PM | Using the Engine COMP |
 | 4:30 PM | Day 2 - Project Prompt / Q&A |
 | 5:00 PM | Wrap |
 
@@ -102,13 +102,13 @@ The fundamentals of working with Pixera, using inputs and outputs, working with 
 
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| 9:00 AM | PIXERA & TouchDesigner Integration Overview |
-| 10:00 AM | TouchDesigner Integration Outputs |
-| 11:00 AM | TouchDesigner Integration Texture and Control Inputs |
-| 12:00 PM | Working with TouchDesigner in Multiple PIXERA Timelines |
+| 9:30 AM | PIXERA & TouchDesigner Integration Overview |
+| 10:00 AM | Prepairing a TOX for Pixera  |
+| 11:00 AM | Understanding Mapping - Pixel Perfect Workflows for PIXERA and TouchDesigner |
+| 12:00 PM | How to Use Time - understanding timelines between PIXERA and TouchDesigner |
 | 1:00 PM | Lunch |
-| 2:00 PM | Working Fast: Using NDI |
-| 3:00 PM | Working Fast: Hot Reloading TOX files |
+| 2:00 PM | Extending PIXERA's capabilities with TouchDesigner using sensing |
+| 3:00 PM | Working Fast: Using NDI & Spout |
 | 4:00 PM | PIXERA & TouchDesigner Workflow Recommendations |
 | 4:30 PM | Day 3 - Showcase / Q&A  |
 | 5:00 PM | Wrap |
